@@ -1,4 +1,4 @@
 ```
-git clone https://github.com/ArtemBelykh/phyton-learn
+git clone git@github.com:ArtemBelykh/python-learn.git
 
 ```

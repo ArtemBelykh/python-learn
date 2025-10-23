@@ -1,4 +1,4 @@
-# Выполнил:
-## Белых Артём
-# 48ПИ-З 
+```
+git clone https://github.com/ArtemBelykh/phyton-learn
 
+```
